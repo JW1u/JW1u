@@ -4,8 +4,7 @@ Hi(你好), I’m a second-year master’s student in Economics at the Universit
 
 **I am interested in the following areas:**
 
-1. User-Generated Content (UGC) and AI-Generated Content (AIGC) on Social Media Platforms
-2. Digital Behavior Underlying Data Assets
-3. Platform Ecosystems of AI Model Providers
+1. How generative AI reshapes content creation, consumption, and creator incentives on digital platforms
+2. Human–AI Collaboration
 
 [Personal Homepage](https://jw1u.com)
