@@ -5,6 +5,6 @@ Hi(你好), I’m a second-year master’s student in Economics at the Universit
 **I am interested in the following areas:**
 
 1. How generative AI reshapes content creation, consumption, and creator incentives on digital platforms
-2. Human–AI Collaboration
+2. How the design and use of generative AI shape human thinking, decision-making, and performance in human–AI collaboration
 
 [Personal Homepage](https://jw1u.com)
